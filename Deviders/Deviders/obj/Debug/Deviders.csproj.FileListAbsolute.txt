@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications2016_2017\Deviders\Deviders\bin\Debug\Deviders.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications2016_2017\Deviders\Deviders\bin\Debug\Deviders.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications2016_2017\Deviders\Deviders\obj\Debug\Deviders.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications2016_2017\Deviders\Deviders\obj\Debug\Deviders.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications2016_2017\Deviders\Deviders\obj\Debug\Deviders.pdb
